@@ -1,0 +1,16 @@
+{
+  "name": "eventdata",
+  "version": "1.0.0",
+  "description": "Event data for the Community Hub EventPoster component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonfile": "^6.1.0"
+  }
+}
