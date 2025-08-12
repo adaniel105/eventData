@@ -1,199 +1,231 @@
 {
   "event": {
-    "title": "GSoC Alumni Summit 2025",
+    "title": "GSoC Demo Day 2025",
     "meetlink": "https://meet.google.com/yfm-sfvp-svw",
     "time_and_date": {
-      "start": "2025-03-27T16:30:00+05:30",
-      "end": "2025-03-27T23:30:00+05:30"
+      "start": "2025-08-21T08:30:00+05:30",
+      "end": "2025-08-21T10:30:00+05:30"
     },
     "location": "Online",
     "ticket": "Community Ticket Free",
-    "Overview": "Join us in the 2025 of our GSoC Alumni Summit! This will be our 9th year participating in GSoC, and we'll take the opportunity to bring past contributors and students to share their experiences in this virtual event - with an intro by our own founder and project leader, Gabriel Engel.",
+    "Overview": "Join us in the 2025 of our GSoC! This will be our 9th year participating in GSoC, and we'll take the opportunity to bring past contributors and students to share their experiences in this virtual event - with an intro by our own founder and project leader, Gabriel Engel.",
     "sessions": [
       {
-        "start_time": "16:30",
-        "end_time": "16:50",
-        "title": "Welcome to Rocket.Chat Alumni Summit 2025!",
+        "start_time": "11:00"
+        "end_time": "11:20",
+        "title": "Welcome Note",
         "speaker": "Felipe/Gabriel Engel/Sing Li",
         "duration": 20,
         "yt_link": ""
       },
       {
-        "start_time": "16:50",
-        "end_time": "17:05",
-        "title": "Building a Global Network through GSoC.",
-        "speaker": "Dhruv Jain",
+        "start_time": "11:20",
+        "end_time": "11:35",
+        "title": ""
+        "speaker": "Daniel Akinola",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "17:05",
-        "end_time": "17:20",
-        "title": "How to Write a Winning GSoC Proposal: Insider Tips from Alumni",
-        "speaker": "Maria Khelli",
+        "start_time": "11:35",
+        "end_time": "11:50",
+        "title": "",
+        "speaker": "Andro Rano",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "17:20",
-        "end_time": "17:35",
-        "title": "Communication, the Most Important Aspect of GSoC",
-        "speaker": "Yuriko Kikuchi",
+        "start_time": "11:50",
+        "end_time": "12:05",
+        "title": "",
+        "speaker": "Ahmed Abdel-Twab",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "17:35",
-        "end_time": "17:50",
+        "start_time": "12:05",
+        "end_time": "12:15",
         "title": "Break",
         "speaker": "",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "17:50",
-        "end_time": "18:05",
-        "title": "Maximizing Your GSoC Journey: From a Great Proposal to Real-World Impact",
-        "speaker": "Abhinav Kumar",
+        "start_time": "12:15",
+        "end_time": "12:30",
+        "title": "",
+        "speaker": "William Liu",
         "duration": 15,
         "description": ""
       },
       {
-        "start_time": "18:05",
-        "end_time": "18:20",
+        "start_time": "12:30",
+        "end_time": "12:45",
         "title": "(Not informed yet)",
-        "speaker": "Aditya Singh",
+        "speaker": "Priyanshu Harsh"
         "duration": 15,
         "description": ""
       },
       {
-        "start_time": "18:20",
-        "end_time": "18:35",
-        "title": "How Open Source Opens Doors to Endless Opportunities",
-        "speaker": "Mustafa Khan",
+        "start_time": "12:45",
+        "end_time": "13:00",
+        "title": "",
+        "speaker": "Ayush",
         "duration": 15,
         "description": ""
       },
       {
-        "start_time": "18:35",
-        "end_time": "18:50",
+        "start_time": "13:00",
+        "end_time": "13:10",
+        "title": "Break",
+        "speaker": "",
+        "duration": 1,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:10",
+        "end_time": "13:25",
+        "title": "",
+        "speaker": "Piyush Bhatt",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:25",
+        "end_time": "13:40",
+        "title": "",
+        "speaker": "Jannat",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:40",
+        "end_time": "13:55",
+        "title": "",
+        "speaker": "Dhairyashil Shinde",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:55",
+        "end_time": "14:05",
+        "title": "",
+        "speaker": "Break",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:05",
+        "end_time": "14:20",
+        "title": "Jinghan Yu",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:20",
+        "end_time": "14:35",
+        "title": "",
+        "speaker": "Ishan Mitra",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:35",
+        "end_time": "14:50",
+        "title": "",
+        "speaker": "Fang Zihao",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:50",
+        "end_time": "15:00",
         "title": "Break",
         "speaker": "",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "18:50",
-        "end_time": "19:05",
+        "start_time": "15:00",
+        "end_time": "15:15",
         "title": "Break",
         "speaker": "",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "19:05",
-        "end_time": "19:20",
-        "title": "Open Source for Learning and Networking",
-        "speaker": "Vipin Chaudary",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "19:20",
-        "end_time": "19:35",
-        "title": "Success Stories and Lessons Learned from GSoC Alumni",
-        "speaker": "Umang Utkarsh",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "19:35",
-        "end_time": "19:50",
-        "title": "Building a Global Network through GSoC",
-        "speaker": "Karan",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "19:50",
-        "end_time": "20:05",
-        "title": "Break",
-        "speaker": "",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "20:05",
-        "end_time": "20:20",
-        "title": "How to Write a Winning GSoC Proposal: Insider Tips from Alumni",
-        "speaker": "Prisha Gupta",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "20:20",
-        "end_time": "20:35",
-        "title": "Beyond GSoC: How opensource shaped my early career",
-        "speaker": "Hardik Bhatia",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "20:35",
-        "end_time": "20:50",
-        "title": "Break",
-        "speaker": "",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "20:50",
-        "end_time": "21:05",
-        "title": "Break",
-        "speaker": "",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "21:05",
-        "end_time": "21:20",
+        "start_time": "15:15",
+        "end_time": "15:30",
         "title": "The Hidden Benefits of Open Source: Networking, Learning, and Growth",
         "speaker": "Ashuntosh Singh",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "21:20",
-        "end_time": "21:35",
+        "start_time": "15:30",
+        "end_time": "15:45",
         "title": "How to increase chances of getting selected for GSoC: dos and donts",
-        "speaker": "Aman Negi",
+        "speaker": "",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "21:35",
-        "end_time": "21:50",
-        "title": "Overcoming challenges in Open Source Projects",
-        "speaker": "Henit Chobisa",
+        "start_time": "15:45",
+        "end_time": "15:55",
+        "title": "Break",
+        "speaker": "",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "21:50",
-        "end_time": "22:05",
-        "title": "Tips for getting selected as a gsoc student and making most of it",
-        "speaker": "Sayan Banerjee",
+        "start_time": "15:55",
+        "end_time": "16:10",
+        "title": "",
+        "speaker": "Rohit Bansal",
         "duration": 15,
         "yt_link": ""
       },
       {
-        "start_time": "22:05",
-        "end_time": "22:20",
+        "start_time": "16:10",
+        "end_time": "16:25",
+        "title": "",
+        "speaker": "Thotsem Jajo",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:25",
+        "end_time": "16:40",
         "title": "Closing Notes",
         "speaker": "Felipe",
         "duration": 15,
         "yt_link": ""
-      }
+      },
+      {
+        "start_time": "16:40",
+        "end_time": "16:50",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:50",
+        "end_time": "17:05",
+        "title": "",
+        "speaker": "Lexie Huang",
+        "duration": 15,
+        "yt_link": ""
+      },
+        {
+        "start_time": "17:05",
+        "end_time": "17:15",
+        "title": "Closing Notes",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
     ],
     "speakers": [
       {
