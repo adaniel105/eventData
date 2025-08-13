@@ -3,18 +3,18 @@
     "title": "GSoC Demo Day 2025",
     "meetlink": "https://meet.google.com/yfm-sfvp-svw",
     "time_and_date": {
-      "start": "2025-08-21T08:30:00+05:30",
-      "end": "2025-08-21T10:30:00+05:30"
+      "start": "2025-08-21T11:00:00+05:30",
+      "end": "2025-08-21T17:05:00+05:30"
     },
     "location": "Online",
     "ticket": "Community Ticket Free",
-    "Overview": "Join us in the 2025 of our GSoC! This will be our 9th year participating in GSoC, and we'll take the opportunity to bring past contributors and students to share their experiences in this virtual event - with an intro by our own founder and project leader, Gabriel Engel.",
+    "Overview": "Join us in the 2025 of our GSoC Demo Day! This will be our 9th year participating in GSoC, and we'll take the opportunity to bring past contributors and students to share their experiences in this virtual event - with an intro by our own founder and project leader, Gabriel Engel.",
     "sessions": [
       {
         "start_time": "11:00"
         "end_time": "11:20",
         "title": "Welcome Note",
-        "speaker": "Felipe/Gabriel Engel/Sing Li",
+        "speaker": "Gabriel Engel",
         "duration": 20,
         "yt_link": ""
       },
@@ -61,7 +61,7 @@
       {
         "start_time": "12:30",
         "end_time": "12:45",
-        "title": "(Not informed yet)",
+        "title": "",
         "speaker": "Priyanshu Harsh"
         "duration": 15,
         "description": ""
@@ -149,24 +149,24 @@
       {
         "start_time": "15:00",
         "end_time": "15:15",
-        "title": "Break",
-        "speaker": "",
+        "title": "",
+        "speaker": "Thanisha Dewangan",
         "duration": 15,
         "yt_link": ""
       },
       {
         "start_time": "15:15",
         "end_time": "15:30",
-        "title": "The Hidden Benefits of Open Source: Networking, Learning, and Growth",
-        "speaker": "Ashuntosh Singh",
+        "title": "",
+        "speaker": "Jinendra Jain",
         "duration": 15,
         "yt_link": ""
       },
       {
         "start_time": "15:30",
         "end_time": "15:45",
-        "title": "How to increase chances of getting selected for GSoC: dos and donts",
-        "speaker": "",
+        "title": "",
+        "speaker": "Anshul",
         "duration": 15,
         "yt_link": ""
       },
@@ -198,7 +198,7 @@
         "start_time": "16:25",
         "end_time": "16:40",
         "title": "Closing Notes",
-        "speaker": "Felipe",
+        "speaker": "Abir Chkraborty",
         "duration": 15,
         "yt_link": ""
       },
@@ -229,6 +229,107 @@
     ],
     "speakers": [
       {
+        "name": "Gabrial Engel",
+        "bio": "Founder of Rocket.Chat.",
+        "image": "https://open.rocket.chat/avatar/gabriel.engel",
+        "more": "Creating the platform for human collaboration over the Internet, powered by the global open source community.",
+        "social": [
+          {
+            "github": "https://github.com/engelgabriel"
+          },
+          {
+            "email": "gabriel.engel@rocket.chat"
+          },
+          {
+            "twitter": "https://twitter.com/gabriel_engel"
+          },
+          {
+            "linkedin": "https://br.linkedin.com/in/gabrielengel"
+          }
+        ]
+      },
+            {
+        "name": "Gabrial Engel",
+        "bio": "Founder of Rocket.Chat.",
+        "image": "https://open.rocket.chat/avatar/gabriel.engel",
+        "more": "Creating the platform for human collaboration over the Internet, powered by the global open source community.",
+        "social": [
+          {
+            "github": "https://github.com/engelgabriel"
+          },
+          {
+            "email": "gabriel.engel@rocket.chat"
+          },
+          {
+            "twitter": "https://twitter.com/gabriel_engel"
+          },
+          {
+            "linkedin": "https://br.linkedin.com/in/gabrielengel"
+          }
+        ]
+      },
+            {
+        "name": "Gabrial Engel",
+        "bio": "Founder of Rocket.Chat.",
+        "image": "https://open.rocket.chat/avatar/gabriel.engel",
+        "more": "Creating the platform for human collaboration over the Internet, powered by the global open source community.",
+        "social": [
+          {
+            "github": "https://github.com/engelgabriel"
+          },
+          {
+            "email": "gabriel.engel@rocket.chat"
+          },
+          {
+            "twitter": "https://twitter.com/gabriel_engel"
+          },
+          {
+            "linkedin": "https://br.linkedin.com/in/gabrielengel"
+          }
+        ]
+      }
+            {
+        "name": "Gabrial Engel",
+        "bio": "Founder of Rocket.Chat.",
+        "image": "https://open.rocket.chat/avatar/gabriel.engel",
+        "more": "Creating the platform for human collaboration over the Internet, powered by the global open source community.",
+        "social": [
+          {
+            "github": "https://github.com/engelgabriel"
+          },
+          {
+            "email": "gabriel.engel@rocket.chat"
+          },
+          {
+            "twitter": "https://twitter.com/gabriel_engel"
+          },
+          {
+            "linkedin": "https://br.linkedin.com/in/gabrielengel"
+          }
+        ]
+      }
+            {
+        "name": "Gabrial Engel",
+        "bio": "Founder of Rocket.Chat.",
+        "image": "https://open.rocket.chat/avatar/gabriel.engel",
+        "more": "Creating the platform for human collaboration over the Internet, powered by the global open source community.",
+        "social": [
+          {
+            "github": "https://github.com/engelgabriel"
+          },
+          {
+            "email": "gabriel.engel@rocket.chat"
+          },
+          {
+            "twitter": "https://twitter.com/gabriel_engel"
+          },
+          {
+            "linkedin": "https://br.linkedin.com/in/gabrielengel"
+          }
+        ]
+      }
+
+            {
         "name": "Gabrial Engel",
         "bio": "Founder of Rocket.Chat.",
         "image": "https://open.rocket.chat/avatar/gabriel.engel",
