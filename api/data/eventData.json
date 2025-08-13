@@ -3,13 +3,230 @@
     "title": "GSoC Demo Day 2025",
     "meetlink": "https://meet.google.com/yfm-sfvp-svw",
     "time_and_date": {
-      "start": "2025-08-21T11:00:00+05:30",
-      "end": "2025-08-21T17:05:00+05:30"
+      "start": "2025-08-21T11:00:00",
+      "end": "2025-08-21T17:05:00"
     },
     "location": "Online",
     "ticket": "Community Ticket Free",
     "Overview": "Join us in the 2025 of our GSoC Demo Day! This will be our 9th year participating in GSoC, and we'll take the opportunity to bring past contributors and students to share their experiences in this virtual event - with an intro by our own founder and project leader, Gabriel Engel.",
-    "sessions": [],
+    "sessions": [
+           {
+        "start_time": "11:00"
+        "end_time": "11:20",
+        "title": "Welcome Note",
+        "speaker": "Gabriel Engel",
+        "duration": 20,
+        "yt_link": ""
+      },
+      {
+        "start_time": "11:20",
+        "end_time": "11:35",
+        "title": "GSOC Community Hub 2025"
+        "speaker": "Daniel Akinola",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "11:35",
+        "end_time": "11:50",
+        "title": "End to End Encrypted Message Handling for Ruqola",
+        "speaker": "Andro Rano",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "11:50",
+        "end_time": "12:05",
+        "title": "Convert endpoints to new Pattern",
+        "speaker": "Ahmed Abdel-Twab",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "12:05",
+        "end_time": "12:15",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "12:15",
+        "end_time": "12:30",
+        "title": "Receipts Processor and Reporting App powered by Multi-modal LLMs",
+        "speaker": "William Liu",
+        "duration": 15,
+        "description": ""
+      },
+      {
+        "start_time": "12:30",
+        "end_time": "12:45",
+        "title": "Natural Language Bridge to Legacy Email",
+        "speaker": "Priyanshu Harshbodhi"
+        "duration": 15,
+        "description": ""
+      },
+      {
+        "start_time": "12:45",
+        "end_time": "13:00",
+        "title": "AI Enhanced Message Composer Component",
+        "speaker": "Ayush",
+        "duration": 15,
+        "description": ""
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "13:10",
+        "title": "Break",
+        "speaker": "",
+        "duration": 1,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:10",
+        "end_time": "13:25",
+        "title": "Trip Helper App",
+        "speaker": "Piyush Bhatt",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:25",
+        "end_time": "13:40",
+        "title": "Code Review AI Assistant App for Rocket.Chat",
+        "speaker": "Jannat",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:40",
+        "end_time": "13:55",
+        "title": "AI Chat Workflows Automation App with multi-step reasoning",
+        "speaker": "Dhairyashil Shinde",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:55",
+        "end_time": "14:05",
+        "title": "",
+        "speaker": "Break",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:05",
+        "end_time": "14:20",
+        "title": "Jinghan Yu",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:20",
+        "end_time": "14:35",
+        "title": "Message Timestamp Date Picker Components",
+        "speaker": "Ishan Mitra",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:35",
+        "end_time": "14:50",
+        "title": "Passkey-Based WebAuthn Authentication for Rocket.Chat",
+        "speaker": "Fang Zihao",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:50",
+        "end_time": "15:00",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "15:15",
+        "title": "Fuselage React Native compatibility (tamagui)",
+        "speaker": "Thanisha Dewangan",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:15",
+        "end_time": "15:30",
+        "title": "Log in via QR code using mobile app",
+        "speaker": "Jinendra Jain",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:30",
+        "end_time": "15:45",
+        "title": "Implement visual regression testing",
+        "speaker": "Anshul",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:45",
+        "end_time": "15:55",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:55",
+        "end_time": "16:10",
+        "title": "Maestro as Mobile UI Testing Framework",
+        "speaker": "Rohit Bansal",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:10",
+        "end_time": "16:25",
+        "title": "Messages scheduling",
+        "speaker": "Thotsem Jajo",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:25",
+        "end_time": "16:40",
+        "title": "Server Guide Agent",
+        "speaker": "Abir Chakraborty",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:40",
+        "end_time": "16:50",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:50",
+        "end_time": "17:05",
+        "title": "Private Teams and Private Channels Administration Improvements",
+        "speaker": "Lexie Huang",
+        "duration": 15,
+        "yt_link": ""
+      },
+        {
+        "start_time": "17:05",
+        "end_time": "17:15",
+        "title": "Closing Notes",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+    ],
     "speakers": [
       {
         "name": "Gabrial Engel",
@@ -54,7 +271,7 @@
       {
         "name": "Ahmed Abdel-Twab",
         "bio": "passionate about developing backends and databases that ensure applications run smoothly",
-        "image": "https://open.rocket.chat/avatar/gabriel.engel",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHhy5JPupGGeg/profile-displayphoto-shrink_800_800/B4DZcIHQ2DG8Ak-/0/1748187816130?e=1758153600&v=beta&t=DQ2tqbbB8XO27rlhqdRlvKeNJx8ehmQ5iWbPpjUer9A",
         "more": "I'm a huge fan of technology, especially apps and tools that make life easier for developers and everyday users alike. I'm always messing around with new tech, looking for the best ways to write clean, efficient, and understandable code. I enjoy helping others, whether it's explaining complex code, fixing bugs, or simplifying technical concepts for my teammates and the wider community. Fun Fact: My cat has been trying to learn how to type, but so far, she only knows the 'delete' key.",
         "social": [
           {
@@ -72,21 +289,7 @@
         ]
       },
       {
-        "name": "Ahmed",
-        "bio": "passionate about developing backends and databases that ensure applications run smoothly",
-        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHhy5JPupGGeg/profile-displayphoto-shrink_800_800/B4DZcIHQ2DG8Ak-/0/1748187816130?e=1758153600&v=beta&t=DQ2tqbbB8XO27rlhqdRlvKeNJx8ehmQ5iWbPpjUer9A",
-        "more": "I'm a huge fan of technology, especially apps and tools that make life easier for developers and everyday users alike. I'm always messing around with new tech, looking for the best ways to write clean, efficient, and understandable code. I enjoy helping others, whether it's explaining complex code, fixing bugs, or simplifying technical concepts for my teammates and the wider community. Fun Fact: My cat has been trying to learn how to type, but so far, she only knows the \"delete\" key.",
-        "social": [
-          {
-            "linkedin": "https://www.linkedin.com/in/ahmed-n-abdeltwab"
-          },
-          {
-            "email": "ahmed.n.abdeltwab@gmail.com"
-          }
-        ]
-      },
-      {
-        "name": "William",
+        "name": "William Liu",
         "bio": "I'm currently a software engineer at Gojek, working on GoFood. I have experience in backend and DevOps, and I focus on building reliable, scalable systems that support everyday use at scale.",
         "image": "https://drive.google.com/file/d/1TalKtw9iYkKt58XH9F-icGUFXYreAcwg/view?usp=sharing",
         "more": "I'm a software engineer at Gojek, currently working on GoFood. I started my journey in tech after finishing my undergraduate thesis and joining Gojek’s Engineering Bootcamp, where I learned a lot about backend, DevOps, and mobile development.\n\nI mostly work with Go and have experience with tools like Kubernetes, Prometheus, and Grafana. I enjoy building backend systems that are reliable, easy to maintain, and can handle a lot of traffic. I'm also interested in DevOps practices that help teams move fast without breaking things.\n\nOutside of work, I like learning new things, solving coding problems, reading novels, playing video games and working on side projects and now trying to contribute to open source projects",
@@ -142,7 +345,7 @@
         ]
       },
       {
-        "name": "Ayush",
+        "name": "Ayush Kumar",
         "bio": "If tech had a hero’s journey, I’d be the underdog-turned-architect – from decoding algorithms like plot twists to building full-stack systems with the precision of a director. I don’t just code; I craft stories in logic, optimize like an editor, and ship like it's opening night. ",
         "image": "https://drive.google.com/file/d/1djdEW3aeRcjquE0IBMym0uLpo4swm6BN/view?usp=sharing",
         "more": "It all began in a small town in India, where I first laid eyes on a computer around 2007or 08. Even then, my imagination was captured not by the screen itself, but by the power of science, especially physics and mathematics. As a child, I devoured every math competition and Olympiad I could find, chasing that exhilarating “aha!” moment with each solved problem.\n\nThat early passion steered me through countless hours of study and problem‑solving, ultimately leading me to crack the grueling IIT entrance exam out of over a million aspirants to earn a spot at one of India’s most prestigious engineering institutions, home to visionaries like Sundar Pichai (CEO of Alphabet), Arvind Srinivas (founder of perplexity), and Arvind Krishna (CEO of IBM). Walking those campus corridors, I felt the weight of that legacy and knew I was exactly where I was meant to be.\n\nOnce on campus, I discovered a new obsession: programming and software development. I immersed myself in hackathons, open‑source projects, and late‑night coding competitions. \n\nThis year I completed my bachelors going to the real world where more things still hides to be explored.",
@@ -156,8 +359,8 @@
         ]
       },
       {
-        "name": "Daniel",
-        "bio": "I enjoy learning.",
+        "name": "Daniel Akinola",
+        "bio": "I like math, programming, interesting software and video games.",
         "image": "https://www.linkedin.com/in/daniel-akinola-565870265",
         "more": "I like math, programming, interesting software and video games.",
         "social": [
@@ -170,7 +373,7 @@
         ]
       },
       {
-        "name": "Piyush",
+        "name": "Piyush Bhatt",
         "bio": "I’m a passionate coder who thrives on solving complex problems, pushing my mind to its deepest limits",
         "image": "https://media.licdn.com/dms/image/v2/D4D03AQF4h-WN3_ONag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720375224466?e=1755734400&v=beta&t=BMTBLS_xjIk8bQxTacngf5LFIQCUOSCw5WagXdy4l2k",
         "more": "I see myself as a passionate coder who loves diving deep into complex problems, often spending countless late nights debugging lines of code, driven by an unwavering desire to deliver the best possible features, no matter how challenging they are.",
@@ -184,7 +387,7 @@
         ]
       },
       {
-        "name": "Jannat",
+        "name": "Jannat Khan",
         "bio": "I am a self-taught programmer and AI generalist, I work on all things AI. I am also a SheFi scholar where I am exploring Web3 world.",
         "image": "https://i.postimg.cc/YrH7pZKF/5467-C187-3-B66-41-C8-B823-EC192-E3-D7-F4-F.png?dl=1",
         "more": "I am Mathematics and Computing graduate, I am a self-taught programmer, my coding journey began in +1 when I opted for Computer Science. Fast forward to college, I got enrolled into several Udemy courses and became AI native and ramped up myself on all things AI.",
@@ -201,7 +404,7 @@
         "more": "I studied Statistics and Computing at UWaterloo and will soon begin my Master’s in CSE at Georgia Tech. This summer, I’ve been working with Rocket.Chat to improve private team and channel administration, diving deep into permission logic and testing. During my four years of undergrad, I did five internships (for credits to graduate…), rotating through roles in DS, SWE, finance, and venture capital. Each one gave me a different lens on tech, markets, and impact. But after all the experimenting, I’m happiest when I’m building, when I’m writing code and creating something that might actually help people. (Also, five internships in four years means I had to move every four months… great for character building, less great for my back.)",
         "social": [
           {
-            "linkedin": "https://www.linkedin.com/in/lexie-h/, ig:lexiehuang_"
+            "linkedin": "https://www.linkedin.com/in/lexie-h/"
           },
           {
             "email": "huangziqian0417@gmail.com"
@@ -223,7 +426,7 @@
         ]
       },
       {
-        "name": "Jinghan",
+        "name": "Jinghan Yu",
         "bio": "I’m a full-stack developer passionate about building clean, intuitive, and user-centric solutions that solve real problems. Experienced in Java and React, I focus on creating scalable, efficient products and enjoy contributing to open source to make technology that truly helps people.",
         "image": "https://media.licdn.com/dms/image/v2/D4E03AQHyv4gMg860mg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721349029104?e=1756339200&v=beta&t=x1MosfnMDjif9PqdhA1_s8Sv0Yi3kLpTZhStZndz5Lw",
         "more": "I didn’t start coding just to write programs. I started because I love solving real problems. Over time, I’ve worked on projects ranging from academic systems that help schools run more smoothly to inventory systems that streamline company operations. These experiences taught me how much user-centric design and even the smallest technical details can change how people work and interact with technology.\n\nContributing to open source has been a big part of my growth. Collaborating with other developers taught me how to write cleaner, more maintainable code, how to communicate ideas clearly, and how to build features that fit well into large collaborative projects. It is still amazing to me that a few lines of code can improve a tool used by thousands of people.\n\nI am also curious about how technology can improve education and knowledge sharing. I believe this is an area where tech can truly change lives. I am a bit of a perfectionist and also a night owl. The quiet hours are when I think most clearly and refine things until they feel just right.",
@@ -262,7 +465,7 @@
         ]
       },
       {
-        "name": "Thanisha ",
+        "name": "Thanisha Dewangan",
         "bio": "A curious builder and AI enthusiast passionate about solving real-world problems with code. Currently a GSoC contributor at Rocket.Chat, I’ve led scalable product builds, explored AI in healthcare, and contributed to open source. I thrive where impact meets innovation.",
         "image": "https://drive.google.com/file/d/1AGmJURNaGBwGihBCOszQRZkpJDrniC6r/view?usp=sharing",
         "more": "I’m Thanisha Dewangan, a developer, open-source contributor, and passionate problem-solver. My journey into tech started with curiosity and scaled into impact—most recently as a Google Summer of Code (GSoC) contributor with Rocket.Chat, where I worked on real-time collaboration tools and enhanced cross-platform design components.\n\nWith internships at Amazon and various startups, I’ve designed and shipped full-stack applications, optimized backend services, and implemented machine learning models—one of which helps detect diabetic retinopathy from retinal scans. I’ve also co-authored research on YOLOv9-based object detection and non-invasive blood glucose prediction using ML.\n\nBeyond the code, I enjoy mentoring juniors, designing intuitive user experiences, and exploring how tech can drive social good. I’m deeply inspired by AI’s intersection with accessibility and healthcare, and I aim to build systems that make a real difference in people’s lives.\n\nYou’ll usually find me balancing hackathons, GitHub commits, and long walks listening to tech podcasts—or geeking out over clean UI. I'm always up for meaningful collaboration, especially where impact and creativity intersect.",
@@ -276,9 +479,9 @@
         ]
       },
       {
-        "name": "Andro",
+        "name": "Andro Rano",
         "bio": "Professional bug researcher",
-        "image": "No pictures this time",
+        "image": "",
         "more": "Professional bug researcher with specialization in c++, javascript/typescript etc...",
         "social": [
           {
