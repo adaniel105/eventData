@@ -19,125 +19,13 @@
         "yt_link": ""
       },
       {
-        "start_time": "11:20",
-        "end_time": "11:35",
-        "title": "GSOC Community Hub 2025"
-        "speaker": "Daniel Akinola",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "11:35",
-        "end_time": "11:50",
-        "title": "End to End Encrypted Message Handling for Ruqola",
-        "speaker": "Andro Rano",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "11:50",
-        "end_time": "12:05",
-        "title": "Convert endpoints to new Pattern",
-        "speaker": "Ahmed Abdel-Twab",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "12:05",
-        "end_time": "12:15",
-        "title": "Break",
-        "speaker": "",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "12:15",
-        "end_time": "12:30",
-        "title": "Receipts Processor and Reporting App powered by Multi-modal LLMs",
-        "speaker": "William Liu",
-        "duration": 15,
-        "description": ""
-      },
-      {
-        "start_time": "12:30",
-        "end_time": "12:45",
-        "title": "Natural Language Bridge to Legacy Email",
-        "speaker": "Priyanshu Harshbodhi"
-        "duration": 15,
-        "description": ""
-      },
-      {
-        "start_time": "12:45",
-        "end_time": "13:00",
-        "title": "AI Enhanced Message Composer Component",
-        "speaker": "Ayush",
-        "duration": 15,
-        "description": ""
-      },
-      {
-        "start_time": "13:00",
-        "end_time": "13:10",
-        "title": "Break",
-        "speaker": "",
-        "duration": 1,
-        "yt_link": ""
-      },
-      {
-        "start_time": "13:10",
-        "end_time": "13:25",
-        "title": "Trip Helper App",
-        "speaker": "Piyush Bhatt",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
         "start_time": "13:25",
         "end_time": "13:40",
         "title": "Code Review AI Assistant App for Rocket.Chat",
         "speaker": "Jannat",
         "duration": 15,
         "yt_link": ""
-      },
-      {
-        "start_time": "13:40",
-        "end_time": "13:55",
-        "title": "AI Chat Workflows Automation App with multi-step reasoning",
-        "speaker": "Dhairyashil Shinde",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "13:55",
-        "end_time": "14:05",
-        "title": "",
-        "speaker": "Break",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "14:05",
-        "end_time": "14:20",
-        "title": "Jinghan Yu",
-        "speaker": "",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "14:20",
-        "end_time": "14:35",
-        "title": "Message Timestamp Date Picker Components",
-        "speaker": "Ishan Mitra",
-        "duration": 15,
-        "yt_link": ""
-      },
-      {
-        "start_time": "14:35",
-        "end_time": "14:50",
-        "title": "Passkey-Based WebAuthn Authentication for Rocket.Chat",
-        "speaker": "Fang Zihao",
-        "duration": 15,
-        "yt_link": ""
-      },
+      }
     ],
     "speakers": [
       {
