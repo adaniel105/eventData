@@ -11,7 +11,7 @@
     "Overview": "Join us in the 2025 of our GSoC Demo Day! This will be our 9th year participating in GSoC, and we'll take the opportunity to bring past contributors and students to share their experiences in this virtual event - with an intro by our own founder and project leader, Gabriel Engel.",
     "sessions": [
       {
-        "start_time": "11:00"
+        "start_time": "11:00",
         "end_time": "11:20",
         "title": "Welcome Note",
         "speaker": "Gabriel Engel",
@@ -19,13 +19,213 @@
         "yt_link": ""
       },
       {
+        "start_time": "11:20",
+        "end_time": "11:35",
+        "title": "",
+        "speaker": "Daniel Akinola",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "11:35",
+        "end_time": "11:50",
+        "title": "",
+        "speaker": "Andro Rano",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "11:50",
+        "end_time": "12:05",
+        "title": "",
+        "speaker": "Ahmed Abdel-Twab",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "12:05",
+        "end_time": "12:15",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "12:15",
+        "end_time": "12:30",
+        "title": "",
+        "speaker": "William Liu",
+        "duration": 15,
+        "description": ""
+      },
+      {
+        "start_time": "12:30",
+        "end_time": "12:45",
+        "title": "",
+        "speaker": "Priyanshu Harsh"
+        "duration": 15,
+        "description": ""
+      },
+      {
+        "start_time": "12:45",
+        "end_time": "13:00",
+        "title": "",
+        "speaker": "Ayush",
+        "duration": 15,
+        "description": ""
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "13:10",
+        "title": "Break",
+        "speaker": "",
+        "duration": 1,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:10",
+        "end_time": "13:25",
+        "title": "",
+        "speaker": "Piyush Bhatt",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
         "start_time": "13:25",
         "end_time": "13:40",
-        "title": "Code Review AI Assistant App for Rocket.Chat",
+        "title": "",
         "speaker": "Jannat",
         "duration": 15,
         "yt_link": ""
-      }
+      },
+      {
+        "start_time": "13:40",
+        "end_time": "13:55",
+        "title": "",
+        "speaker": "Dhairyashil Shinde",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "13:55",
+        "end_time": "14:05",
+        "title": "",
+        "speaker": "Break",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:05",
+        "end_time": "14:20",
+        "title": "Jinghan Yu",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:20",
+        "end_time": "14:35",
+        "title": "",
+        "speaker": "Ishan Mitra",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:35",
+        "end_time": "14:50",
+        "title": "",
+        "speaker": "Fang Zihao",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "14:50",
+        "end_time": "15:00",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "15:15",
+        "title": "",
+        "speaker": "Thanisha Dewangan",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:15",
+        "end_time": "15:30",
+        "title": "",
+        "speaker": "Jinendra Jain",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:30",
+        "end_time": "15:45",
+        "title": "",
+        "speaker": "Anshul",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:45",
+        "end_time": "15:55",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "15:55",
+        "end_time": "16:10",
+        "title": "",
+        "speaker": "Rohit Bansal",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:10",
+        "end_time": "16:25",
+        "title": "",
+        "speaker": "Thotsem Jajo",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:25",
+        "end_time": "16:40",
+        "title": "",
+        "speaker": "Abir Chkraborty",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:40",
+        "end_time": "16:50",
+        "title": "Break",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "16:50",
+        "end_time": "17:05",
+        "title": "",
+        "speaker": "Lexie Huang",
+        "duration": 15,
+        "yt_link": ""
+      },
+      {
+        "start_time": "17:05",
+        "end_time": "17:15",
+        "title": "Closing Notes",
+        "speaker": "",
+        "duration": 15,
+        "yt_link": ""
+      },
     ],
     "speakers": [
       {
