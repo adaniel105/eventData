@@ -21,7 +21,7 @@
       {
         "start_time": "11:20",
         "end_time": "11:35",
-        "title": "",
+        "title": "Google Summer of Code Community Hub 2025",
         "speaker": "Daniel Akinola",
         "duration": 15,
         "yt_link": ""
@@ -29,7 +29,7 @@
       {
         "start_time": "11:35",
         "end_time": "11:50",
-        "title": "",
+        "title": "End to End Encrypted Message Handling for Ruqola",
         "speaker": "Andro Rano",
         "duration": 15,
         "yt_link": ""
@@ -37,8 +37,8 @@
       {
         "start_time": "11:50",
         "end_time": "12:05",
-        "title": "",
-        "speaker": "Ahmed Abdel-Twab",
+        "title": "Convert endpoints to new Pattern",
+        "speaker": "Ahmed Nasser",
         "duration": 15,
         "yt_link": ""
       },
@@ -53,7 +53,7 @@
       {
         "start_time": "12:15",
         "end_time": "12:30",
-        "title": "",
+        "title": "Receipts Processor and Reporting App powered by Multi-modal LLMs",
         "speaker": "William Liu",
         "duration": 15,
         "yt_link": ""
@@ -61,7 +61,7 @@
       {
         "start_time": "12:30",
         "end_time": "12:45",
-        "title": "",
+        "title": "Natural Language Bridge to Legacy Email",
         "speaker": "Priyanshu Harsh",
         "duration": 15,
         "yt_link": ""
@@ -69,8 +69,8 @@
       {
         "start_time": "12:45",
         "end_time": "13:00",
-        "title": "",
-        "speaker": "Ayush",
+        "title": "AI Enhanced Message Composer Component",
+        "speaker": "Ayush Kumar",
         "duration": 15,
         "yt_link": ""
       },
@@ -85,7 +85,7 @@
       {
         "start_time": "13:10",
         "end_time": "13:25",
-        "title": "",
+        "title": "Trip Helper App",
         "speaker": "Piyush Bhatt",
         "duration": 15,
         "yt_link": ""
@@ -93,15 +93,15 @@
       {
         "start_time": "13:25",
         "end_time": "13:40",
-        "title": "",
-        "speaker": "Jannat",
+        "title": "Code Review AI Assistant App for Rocket.Chat",
+        "speaker": "Jannat Khan",
         "duration": 15,
         "yt_link": ""
       },
       {
         "start_time": "13:40",
         "end_time": "13:55",
-        "title": "",
+        "title": "AI Chat Workflows Automation App with multi-step reasoning",
         "speaker": "Dhairyashil Shinde",
         "duration": 15,
         "yt_link": ""
@@ -117,7 +117,7 @@
       {
         "start_time": "14:05",
         "end_time": "14:20",
-        "title": "",
+        "title": "Message Timestamp Date Picker Components",
         "speaker": "Jinghan Yu",
         "duration": 15,
         "yt_link": ""
@@ -125,7 +125,7 @@
       {
         "start_time": "14:20",
         "end_time": "14:35",
-        "title": "",
+        "title": "Real Time Message Rendering in Message Composer",
         "speaker": "Ishan Mitra",
         "duration": 15,
         "yt_link": ""
@@ -133,7 +133,7 @@
       {
         "start_time": "14:35",
         "end_time": "14:50",
-        "title": "",
+        "title": "Passkey-Based WebAuthn Authentication for Rocket.Chat",
         "speaker": "Fang Zihao",
         "duration": 15,
         "yt_link": ""
@@ -149,7 +149,7 @@
       {
         "start_time": "15:00",
         "end_time": "15:15",
-        "title": "",
+        "title": "Fuselage React Native compatibility (tamagui)",
         "speaker": "Thanisha Dewangan",
         "duration": 15,
         "yt_link": ""
@@ -157,7 +157,7 @@
       {
         "start_time": "15:15",
         "end_time": "15:30",
-        "title": "",
+        "title": "Log in via QR code using mobile app",
         "speaker": "Jinendra Jain",
         "duration": 15,
         "yt_link": ""
@@ -165,8 +165,8 @@
       {
         "start_time": "15:30",
         "end_time": "15:45",
-        "title": "",
-        "speaker": "Anshul",
+        "title": "Implement visual regression testing",
+        "speaker": "Anshul Ivan Ekka",
         "duration": 15,
         "yt_link": ""
       },
@@ -181,7 +181,7 @@
       {
         "start_time": "15:55",
         "end_time": "16:10",
-        "title": "",
+        "title": "Maestro as Mobile UI Testing Framework",
         "speaker": "Rohit Bansal",
         "duration": 15,
         "yt_link": ""
@@ -189,7 +189,7 @@
       {
         "start_time": "16:10",
         "end_time": "16:25",
-        "title": "",
+        "title": "Messages scheduling",
         "speaker": "Thotsem Jajo",
         "duration": 15,
         "yt_link": ""
@@ -197,8 +197,8 @@
       {
         "start_time": "16:25",
         "end_time": "16:40",
-        "title": "",
-        "speaker": "Abir Chkraborty",
+        "title": "Server Guide Agent",
+        "speaker": "Abir Chakraborty",
         "duration": 15,
         "yt_link": ""
       },
@@ -213,7 +213,7 @@
       {
         "start_time": "16:50",
         "end_time": "17:05",
-        "title": "",
+        "title": "Private Teams and Private Channels Administration Improvements",
         "speaker": "Lexie Huang",
         "duration": 15,
         "yt_link": ""
@@ -271,7 +271,7 @@
       {
         "name": "Ahmed Abdel-Twab",
         "bio": "passionate about developing backends and databases that ensure applications run smoothly",
-        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHhy5JPupGGeg/profile-displayphoto-shrink_800_800/B4DZcIHQ2DG8Ak-/0/1748187816130?e=1758153600&v=beta&t=DQ2tqbbB8XO27rlhqdRlvKeNJx8ehmQ5iWbPpjUer9A",
+        "image": "tps://media.licdn.com/dms/image/v2/D4D03AQHhy5JPupGGeg/profile-displayphoto-shrink_800_800/B4DZcIHQ2DG8Ak-/0/1748187816130?e=1758153600&v=beta&t=DQ2tqbbB8XO27rlhqdRlvKeNJx8ehmQ5iWbPpjUer9A",
         "more": "I'm a huge fan of technology, especially apps and tools that make life easier for developers and everyday users alike. I'm always messing around with new tech, looking for the best ways to write clean, efficient, and understandable code. I enjoy helping others, whether it's explaining complex code, fixing bugs, or simplifying technical concepts for my teammates and the wider community. Fun Fact: My cat has been trying to learn how to type, but so far, she only knows the 'delete' key.",
         "social": [
           {
