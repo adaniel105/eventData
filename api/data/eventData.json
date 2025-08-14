@@ -271,7 +271,7 @@
       {
         "name": "Ahmed Abdel-Twab",
         "bio": "passionate about developing backends and databases that ensure applications run smoothly",
-        "image": "tps://media.licdn.com/dms/image/v2/D4D03AQHhy5JPupGGeg/profile-displayphoto-shrink_800_800/B4DZcIHQ2DG8Ak-/0/1748187816130?e=1758153600&v=beta&t=DQ2tqbbB8XO27rlhqdRlvKeNJx8ehmQ5iWbPpjUer9A",
+        "image": "ps://media.licdn.com/dms/image/v2/D4D03AQHhy5JPupGGeg/profile-displayphoto-shrink_800_800/B4DZcIHQ2DG8Ak-/0/1748187816130?e=1758153600&v=beta&t=DQ2tqbbB8XO27rlhqdRlvKeNJx8ehmQ5iWbPpjUer9A",
         "more": "I'm a huge fan of technology, especially apps and tools that make life easier for developers and everyday users alike. I'm always messing around with new tech, looking for the best ways to write clean, efficient, and understandable code. I enjoy helping others, whether it's explaining complex code, fixing bugs, or simplifying technical concepts for my teammates and the wider community. Fun Fact: My cat has been trying to learn how to type, but so far, she only knows the 'delete' key.",
         "social": [
           {
@@ -291,7 +291,7 @@
       {
         "name": "William Liu",
         "bio": "I'm currently a software engineer at Gojek, working on GoFood. I have experience in backend and DevOps, and I focus on building reliable, scalable systems that support everyday use at scale.",
-        "image": "https://drive.google.com/file/d/1TalKtw9iYkKt58XH9F-icGUFXYreAcwg/view?usp=sharing",
+        "image": "https://open.rocket.chat/avatar/william.liu",
         "more": "I'm a software engineer at Gojek, currently working on GoFood. I started my journey in tech after finishing my undergraduate thesis and joining Gojek’s Engineering Bootcamp, where I learned a lot about backend, DevOps, and mobile development.\n\nI mostly work with Go and have experience with tools like Kubernetes, Prometheus, and Grafana. I enjoy building backend systems that are reliable, easy to maintain, and can handle a lot of traffic. I'm also interested in DevOps practices that help teams move fast without breaking things.\n\nOutside of work, I like learning new things, solving coding problems, reading novels, playing video games and working on side projects and now trying to contribute to open source projects",
         "social": [
           {
@@ -305,7 +305,7 @@
       {
         "name": "Thotsem Jajo",
         "bio": "I’m a builder at heart — from web apps to dev tools. With experience ranging from backend services to UI optimization, I’m currently contributing to Rocket.Chat through Google Summer of Code 2025.",
-        "image": "https://drive.google.com/file/d/1aZYu1Ffgyjy-bEYgClDbxHkTtY-3gf0-/view",
+        "image": "https://open.rocket.chat/avatar/thotsem.jajo",
         "more": "Hi, I’m Thotsem Jajo, currently a GSoC’25 contributor at Rocket.Chat, MCA student, and someone who truly enjoys the process of building good software.\n\nI’ve always been drawn to open source: the spirit of sharing, the challenge of real codebases, and the satisfaction of shipping something that helps thousands. Through GSoC, I’ve been developing Rocket.Chat’s scheduled messaging feature, bringing together backend logic and real-time user experience.\n\nI’ve worked as an intern, taken on few side gigs, and built personal tools that reflect my love for fullstack development. Some of my personal projects include a tool for tunneling local servers online and an image upload and processing system. I enjoy creating tools that solve actual problems, no matter how niche.\n\nWhile I lean more towards backend development, where I love designing APIs, architecting systems, and solving performance bottlenecks, I am equally immersed in the frontend world.\n\nWhat excites me most about tech is not just learning new frameworks, but using them to solve real, messy problems alongside others who love to build as much as I do.\n\nIf you're into open source, building useful tools, or just want to geek out about JavaScript performance quirks, I'm your guy.",
         "social": [
           {
@@ -319,7 +319,7 @@
       {
         "name": "Abir Chakraborty",
         "bio": "I'm a GSoC'25 contributor at Rocket.Chat and a Computer Science student at Jadavpur University, passionate about open source.",
-        "image": "https://res.cloudinary.com/dcysmbtrn/image/upload/v1752821243/my_pic_w9hmmf.png",
+        "image": "https://open.rocket.chat/avatar/abir.chakraborty",
         "more": "I love exploring AI and building useful things with it. As part of my GSoC project, Server Guide Agent at Rocket.Chat, I’ve utlized large language models to provide intelligent onboarding guides for users. I enjoy contributing to open-source software, it’s a great way to learn.",
         "social": [
           {
@@ -333,7 +333,7 @@
       {
         "name": "Priyanshu Harshbodhi",
         "bio": "I'm a curious person and currently on the hunt for what's next big thing(for building a startup).",
-        "image": "https://drive.google.com/file/d/1hfHMjycp9WhuYlVI_3J847O5-Qo9uzZJ/view?usp=sharing",
+        "image": "https://open.rocket.chat/avatar/priyanshu.harshbodhi",
         "more": "I spend most of my time learning, coding, experimenting, and applying my knowledge. Open Source was a great journey to learn and have industry level experienc for me. Hackathons are where I come alive, I am taking part in lot of hackathons currently. \n\nI am thrilled to be preset in this period with unprecedented opportunities due to AI boom. My long-term goal? To launch a tech startup, get accepted in YC & move to silicon valley — and have a blast doing it.\n\nApart from above thing I also like reading stuff on varied fields like economics, politics, latest development in bio-tech etc.",
         "social": [
           {
@@ -347,7 +347,7 @@
       {
         "name": "Ayush Kumar",
         "bio": "If tech had a hero’s journey, I’d be the underdog-turned-architect – from decoding algorithms like plot twists to building full-stack systems with the precision of a director. I don’t just code; I craft stories in logic, optimize like an editor, and ship like it's opening night. ",
-        "image": "https://drive.google.com/file/d/1djdEW3aeRcjquE0IBMym0uLpo4swm6BN/view?usp=sharing",
+        "image": "https://open.rocket.chat/avatar/ayush.kumar",
         "more": "It all began in a small town in India, where I first laid eyes on a computer around 2007or 08. Even then, my imagination was captured not by the screen itself, but by the power of science, especially physics and mathematics. As a child, I devoured every math competition and Olympiad I could find, chasing that exhilarating “aha!” moment with each solved problem.\n\nThat early passion steered me through countless hours of study and problem‑solving, ultimately leading me to crack the grueling IIT entrance exam out of over a million aspirants to earn a spot at one of India’s most prestigious engineering institutions, home to visionaries like Sundar Pichai (CEO of Alphabet), Arvind Srinivas (founder of perplexity), and Arvind Krishna (CEO of IBM). Walking those campus corridors, I felt the weight of that legacy and knew I was exactly where I was meant to be.\n\nOnce on campus, I discovered a new obsession: programming and software development. I immersed myself in hackathons, open‑source projects, and late‑night coding competitions. \n\nThis year I completed my bachelors going to the real world where more things still hides to be explored.",
         "social": [
           {
@@ -361,7 +361,7 @@
       {
         "name": "Daniel Akinola",
         "bio": "I like math, programming, interesting software and video games.",
-        "image": "https://www.linkedin.com/in/daniel-akinola-565870265",
+        "image": "https://open.rocket.chat/avatar/daniel.akinola",
         "more": "I like math, programming, interesting software and video games.",
         "social": [
           {
@@ -375,7 +375,7 @@
       {
         "name": "Piyush Bhatt",
         "bio": "I’m a passionate coder who thrives on solving complex problems, pushing my mind to its deepest limits",
-        "image": "https://media.licdn.com/dms/image/v2/D4D03AQF4h-WN3_ONag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720375224466?e=1755734400&v=beta&t=BMTBLS_xjIk8bQxTacngf5LFIQCUOSCw5WagXdy4l2k",
+        "image": "https://open.rocket.chat/avatar/piyush.bhatt",
         "more": "I see myself as a passionate coder who loves diving deep into complex problems, often spending countless late nights debugging lines of code, driven by an unwavering desire to deliver the best possible features, no matter how challenging they are.",
         "social": [
           {
@@ -389,7 +389,7 @@
       {
         "name": "Jannat Khan",
         "bio": "I am a self-taught programmer and AI generalist, I work on all things AI. I am also a SheFi scholar where I am exploring Web3 world.",
-        "image": "https://i.postimg.cc/YrH7pZKF/5467-C187-3-B66-41-C8-B823-EC192-E3-D7-F4-F.png?dl=1",
+        "image": "https://open.rocket.chat/avatar/jannat.khan",
         "more": "I am Mathematics and Computing graduate, I am a self-taught programmer, my coding journey began in +1 when I opted for Computer Science. Fast forward to college, I got enrolled into several Udemy courses and became AI native and ramped up myself on all things AI.",
         "social": [
           {
@@ -400,7 +400,7 @@
       {
         "name": "Lexie Huang",
         "bio": "GSoC contributor focused on improving private team and channel administration. I’m curious about amazing product ideas and love exploring real-world applications of ML and LLMs.",
-        "image": "https://www.linkedin.com/in/lexie-h/",
+        "image": "https://open.rocket.chat/avatar/lexie.huang",
         "more": "I studied Statistics and Computing at UWaterloo and will soon begin my Master’s in CSE at Georgia Tech. This summer, I’ve been working with Rocket.Chat to improve private team and channel administration, diving deep into permission logic and testing. During my four years of undergrad, I did five internships (for credits to graduate…), rotating through roles in DS, SWE, finance, and venture capital. Each one gave me a different lens on tech, markets, and impact. But after all the experimenting, I’m happiest when I’m building, when I’m writing code and creating something that might actually help people. (Also, five internships in four years means I had to move every four months… great for character building, less great for my back.)",
         "social": [
           {
@@ -414,7 +414,7 @@
       {
         "name": "Dhairyashil Shinde",
         "bio": "Engineer passionate about building intelligent, accessible, and scalable apps.",
-        "image": "https://media.licdn.com/dms/image/v2/D4D03AQF9LIh-EgcCQA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731130595077?e=1755734400&v=beta&t=VYmAdev2exTuJftaziuH6u4o-ytr4dqnid2zfIq0JJs",
+        "image": "https://open.rocket.chat/avatar/dhairyashil.shinde",
         "more": "Hey! I'm an engineer who thrives at the intersection of AI, web performance, and user experience.\n\nRight now, I’m a Google Summer of Code 2025 contributor with Rocket.Chat, where I’m building a powerful AI-driven chat automation tool that turns natural language into complex workflows",
         "social": [
           {
@@ -428,7 +428,7 @@
       {
         "name": "Jinghan Yu",
         "bio": "I’m a full-stack developer passionate about building clean, intuitive, and user-centric solutions that solve real problems. Experienced in Java and React, I focus on creating scalable, efficient products and enjoy contributing to open source to make technology that truly helps people.",
-        "image": "https://media.licdn.com/dms/image/v2/D4E03AQHyv4gMg860mg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721349029104?e=1756339200&v=beta&t=x1MosfnMDjif9PqdhA1_s8Sv0Yi3kLpTZhStZndz5Lw",
+        "image": "https://open.rocket.chat/avatar/jinghan.yu",
         "more": "I didn’t start coding just to write programs. I started because I love solving real problems. Over time, I’ve worked on projects ranging from academic systems that help schools run more smoothly to inventory systems that streamline company operations. These experiences taught me how much user-centric design and even the smallest technical details can change how people work and interact with technology.\n\nContributing to open source has been a big part of my growth. Collaborating with other developers taught me how to write cleaner, more maintainable code, how to communicate ideas clearly, and how to build features that fit well into large collaborative projects. It is still amazing to me that a few lines of code can improve a tool used by thousands of people.\n\nI am also curious about how technology can improve education and knowledge sharing. I believe this is an area where tech can truly change lives. I am a bit of a perfectionist and also a night owl. The quiet hours are when I think most clearly and refine things until they feel just right.",
         "social": [
           {
@@ -442,7 +442,7 @@
       {
         "name": "Ishan Mitra",
         "bio": "Grown up with a home PC since Windows 98 - unassembled and reassembled a PC when I was 7 - created my first webpage using Microsoft FrontPage - gaming led me to appreciate and pursue a developer career",
-        "image": "https://drive.google.com/file/d/1zV6cj3VvlP55AS6jyXIwXe4PnST3WsNJ/view?usp=sharing",
+        "image": "https://open.rocket.chat/avatar/ishan.mitra",
         "more": "My interest in programming stems from my exposure to gaming when I was young. Early childhood memories include trying to develop a clone of classic 2D games such as Pacman, Blockout, and Space Invaders.\nI always approached learning a new computer language as a hobby and interest during my school years, rather than understanding the nuances and the philosophy behind why it was created in the first place.\nIt is interesting to think that had I not been utterly frustrated with an OpenCV project, I would not have given any thought to participating in GSoC. In fact, my journey towards this OpenCV project started way back in 2022 when I got accepted by AWS to understand MLOps. AI has come so far since then.\nI love to travel, learn new languages and I have been to Vietnam, Singapore, Malaysia and the UAE. I am also eagerly learning new languages, especially Japanese and Vietnamese.",
         "social": [
           {
