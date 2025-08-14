@@ -8,7 +8,7 @@
     },
     "location": "Online",
     "ticket": "Community Ticket Free",
-    "Overview": "Join us in the 2025 of our GSoC Demo Day! This will be our 9th year participating in GSoC, and we'll take the opportunity to bring past contributors and students to share their experiences in this virtual event - with an intro by our own founder and project leader, Gabriel Engel.",
+    "Overview": "Every single year, Rocket.Chat Demo Day showcases open source innovations and major contributions to our platform from our growing open source contributors community.   Many of these community members join us from programs such as  Google Summer of Code where we’re a proud ninth year participating organization.  Join us in taking a peek at the future of Rocket.Chat,  be prepared to be wow’d by the amazing creativity and innovative touches that these “demos” bring.   The day will start with a short introduction by Rocket.Chat’s project leader and founder, Gabriel Engel.",
     "sessions": [
       {
         "start_time": "11:00",
@@ -271,7 +271,7 @@
       {
         "name": "Ahmed Abdel-Twab",
         "bio": "passionate about developing backends and databases that ensure applications run smoothly",
-        "image": "ps://media.licdn.com/dms/image/v2/D4D03AQHhy5JPupGGeg/profile-displayphoto-shrink_800_800/B4DZcIHQ2DG8Ak-/0/1748187816130?e=1758153600&v=beta&t=DQ2tqbbB8XO27rlhqdRlvKeNJx8ehmQ5iWbPpjUer9A",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHhy5JPupGGeg/profile-displayphoto-shrink_800_800/B4DZcIHQ2DG8Ak-/0/1748187816130?e=1758153600&v=beta&t=DQ2tqbbB8XO27rlhqdRlvKeNJx8ehmQ5iWbPpjUer9A",
         "more": "I'm a huge fan of technology, especially apps and tools that make life easier for developers and everyday users alike. I'm always messing around with new tech, looking for the best ways to write clean, efficient, and understandable code. I enjoy helping others, whether it's explaining complex code, fixing bugs, or simplifying technical concepts for my teammates and the wider community. Fun Fact: My cat has been trying to learn how to type, but so far, she only knows the 'delete' key.",
         "social": [
           {
@@ -456,7 +456,7 @@
       {
         "name": "Fang Zihao",
         "bio": "Good at coding.",
-        "image": "https://drive.google.com/file/d/1FSipQb4V4MiyuPzyT9_Fng27-jPnEoqL/view?usp=drive_link",
+        "image": "https://open.rocket.chat/avatar/fang.zihao",
         "more": "I am a Full Stack Developer who skilled in Java, Vue, React, Python and have experience in Next.js, C++, Android, ReactNative, UniApp. Also interested in Web3, Cybersecurity and AI. ",
         "social": [
           {
@@ -467,7 +467,7 @@
       {
         "name": "Thanisha Dewangan",
         "bio": "A curious builder and AI enthusiast passionate about solving real-world problems with code. Currently a GSoC contributor at Rocket.Chat, I’ve led scalable product builds, explored AI in healthcare, and contributed to open source. I thrive where impact meets innovation.",
-        "image": "https://drive.google.com/file/d/1AGmJURNaGBwGihBCOszQRZkpJDrniC6r/view?usp=sharing",
+        "image": "https://open.rocket.chat/avatar/thanisha.dewangan",
         "more": "I’m Thanisha Dewangan, a developer, open-source contributor, and passionate problem-solver. My journey into tech started with curiosity and scaled into impact—most recently as a Google Summer of Code (GSoC) contributor with Rocket.Chat, where I worked on real-time collaboration tools and enhanced cross-platform design components.\n\nWith internships at Amazon and various startups, I’ve designed and shipped full-stack applications, optimized backend services, and implemented machine learning models—one of which helps detect diabetic retinopathy from retinal scans. I’ve also co-authored research on YOLOv9-based object detection and non-invasive blood glucose prediction using ML.\n\nBeyond the code, I enjoy mentoring juniors, designing intuitive user experiences, and exploring how tech can drive social good. I’m deeply inspired by AI’s intersection with accessibility and healthcare, and I aim to build systems that make a real difference in people’s lives.\n\nYou’ll usually find me balancing hackathons, GitHub commits, and long walks listening to tech podcasts—or geeking out over clean UI. I'm always up for meaningful collaboration, especially where impact and creativity intersect.",
         "social": [
           {
@@ -481,7 +481,7 @@
       {
         "name": "Andro Rano",
         "bio": "Professional bug researcher",
-        "image": "",
+        "image": "https://open.rocket.chat/avatar/andro.ranogajec",
         "more": "Professional bug researcher with specialization in c++, javascript/typescript etc...",
         "social": [
           {
@@ -495,7 +495,7 @@
       {
         "name": "Jinendra Jain",
         "bio": "Full stack web & mobile developer focused on React Native and scalable backend systems. GSoC 2025 contributor @ Rocket.Chat, building real-world features that ship. Previously worked with YC-backed and US-based startups. I love building clean UIs, fast & scalable APIs, and solving meaningful problems.",
-        "image": "https://drive.google.com/file/d/1W4YvgYw9E5KI3_lxfAVmxsJs56Ssrlf0/view?usp=sharing",
+        "image": "https://open.rocket.chat/avatar/jinendra.jain",
         "more": "I’m a Full Stack Web & Mobile Developer with a deep interest in building clean, scalable, and real-world software. I enjoy working across the stack, whether it's crafting smooth mobile experiences using React Native, building fast and reliable backends using Node.js, TypeScript, or Golang, or integrating complex systems to work.\n\nCurrently, I'm a GSoC 2025 contributor with Rocket.Chat, where I’m working on production-level features that improve the user experience for thousands of users. Prior to this, I’ve worked at two US-based startups, and a YC-backed startup, where I contributed to everything from API integrations to feature-rich UIs, often owning features end-to-end.\n\nOutside of internships and open source, I lead Google Developers Group (GDG) activities at my campus, where I help organize tech meetups, workshops, and foster a culture of learning and innovation.\n\nI’m a Computer Science undergrad (CSE’26), and while coding is my core, I also love chess, film making, public speaking, and building things that make a difference, like a flood-rescue app I built as part of a college hackathon, which was later showcased at an exhibition. I also built Codebrim, an online code-sharing and compiling platform with GitHub integration, designed to make collaborative coding faster and simpler.\n\nI thrive in fast-paced environments, care deeply about product quality, and love working with people who are equally driven to turn ideas into reality.",
         "social": [
           {
@@ -509,7 +509,7 @@
       {
         "name": "Anshul",
         "bio": "I’m especially curious about why Data Structures and Algorithms (DSA) are emphasized so much, even though real-world work often looks different from coding interview problems. My goal is to understand both: the theoretical foundation and the practical side of software development.",
-        "image": "https://instagram.fixr5-1.fna.fbcdn.net/v/t51.2885-19/484213121_575550082181808_4064718712755775272_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fixr5-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QFmaYQPQVMCSHG7A9cGOOUitwRtUVlePbfpHFEURGo1V2rhXqZyE-e-uo2fqU6s_KRIOBUKqW5ZRsfaf1OWnXSi&_nc_ohc=KIqhDPgYfUAQ7kNvwFOgDWv&_nc_gid=uKd95YKbhtp1lnBzTTumvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfR-jXhWXvpA7BOq3mb_qZfDsTOFrDxfQ_MUgjvC0QcSsw&oe=68895597&_nc_sid=8b3546",
+        "image": "https://open.rocket.chat/avatar/anshul.ekka",
         "more": "I’ve always been curious about what really happens inside a software company. Not just the shiny frontend or solving DSA problems for interviews, but the behind-the-scenes stuff—how code moves from a developer’s machine to a real-world product. That curiosity led me to explore open source, and I stumbled upon Rocket.Chat, which became my very first open source organization to contribute to.\n\nInitially, I was focused on web development, like most beginners. But as I dug deeper, I realized there’s a whole ecosystem beyond it:  CI/CD pipelines, testing,  and a lot of things that keep the software world running smoothly. It was both overwhelming and exciting to learn that writing code is just one piece of the puzzle.",
         "social": [
           {
@@ -523,7 +523,7 @@
       {
         "name": "Rohit Bansal",
         "bio": "I am a Javascript developer focused on building fast, scalable backends with Node.js and sleek cross-platform apps using React Native. I love solving real-world problems with clean architecture and performant code.",
-        "image": "https://drive.google.com/file/d/1THFAx6MuSJwXoap2k6JaNXO2oMt_YwGq/view?usp=drivesdk",
+        "image": "https://open.rocket.chat/avatar/rohit.bansal",
         "more": "I don’t come from a computer science background, coding wasn’t something I studied formally. It all started as a passion. I first got into programming through PHP because I wanted to build websites. That led me to JavaScript, and once I saw what was possible, I got hooked. From there, I picked up Node.js and started writing backend applications. Then I found React and began creating full websites with it.\n\nBut honestly, building responsive websites started to wear me out. Making everything work across every screen size felt like a never-ending battle. That’s when I discovered React Native. Since it was based on React, it felt familiar, but the transition wasn’t as smooth as I expected.\n\nI started learning React Native around 2021, and back then, I didn’t have AI tools or ChatGPT or anything like that to guide me. No Copilot, no fancy autocomplete. I had to rely on Google, Stack Overflow, GitHub issues, and a lot of trial and error. I used to watch YouTube videos, pause every few seconds, try to follow along, and figure things out on my own. Some days I had to spend hours stuck on the smallest issue. But I am really happy I didn’t give up during that time.\n\nEventually, things started making sense. I loved how React Native made it possible to build apps for both Android and iOS with one codebase. It just felt right. That’s when I made the decision to leave web development behind and go all-in on mobile.\n\nNow, I am focused on building cross-platform mobile apps and learning more every day. I still face challenges, but I enjoy the process. Looking back, I am proud of how far I have come not because it was easy, but because I stuck with it.",
         "social": [
           {
